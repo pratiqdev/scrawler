@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -8,6 +7,7 @@ function App() {
         <h1>Scrawler</h1>
         <p>Canvas doodles -> md with media</p>
       </header>
+      
     </div>
   );
 }
